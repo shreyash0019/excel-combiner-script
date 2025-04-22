@@ -78,10 +78,6 @@ excel-combiner-script/
 ## 📬 Contributing
 Pull requests are welcome! Feel free to open issues or suggest features.
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
 
 ---
 
